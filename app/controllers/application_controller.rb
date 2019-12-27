@@ -16,6 +16,7 @@ class Dog
       @@all
   end
 
+end
 
   configure do
   	set :views, "app/views"
